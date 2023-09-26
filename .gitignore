@@ -30,4 +30,5 @@ fp-info-cache
 
 # Custom
 .DS_Store
+*.zip
 
